@@ -21,9 +21,9 @@ author: Antonio, Henrique
 
 navbar-links:
   Projeto: "aboutme"
-  Blog "blog"
-  Equipe: "equipe"
-  Cronomgrama: "crono"
+  Blog: "aboutme"
+  Equipe: "aboutme"
+  Cronomgrama: "aboutme"
   
  
 
