@@ -20,10 +20,9 @@ author: Antonio, Henrique
 ###############################################
 
 navbar-links:
-  Projeto: "aboutme"
-  Blog: "aboutme"
-  Equipe: "aboutme"
-  Cronograma: "aboutme"
+  Projeto: "projeto"
+  Blog: "/"
+  Cronograma: "cronomgrama"
   
  
 
