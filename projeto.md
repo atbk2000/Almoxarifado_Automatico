@@ -6,14 +6,16 @@ title: Projeto
 
 ### O problema
 
-  O gerenciamento de estoques é um problema comum a muitos setores da sociedade. Seja na indústria onde é necessário ter um controle de ferramentas e insumos utilizados. No comércio onde existe a necessidade de manter os estoques dos produtos a serem vendidos, até escritórios onde existe a necessidade de manter estoques de materiais de escritório utilizados no dia a dia, como papel, canetas, grampos e etc. Normalmente esse gerenciamento é feito por funcionários, que além de consumir tempo também sofre com o problema de erros humanos, que acabam tornando esses sistemas pouco confiáveis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O gerenciamento de estoques é um problema comum a muitos setores da sociedade. Seja na indústria onde é necessário ter um controle de ferramentas e insumos utilizados. No comércio onde existe a necessidade de manter os estoques dos produtos a serem vendidos, até escritórios onde existe a necessidade de manter estoques de materiais de escritório utilizados no dia a dia, como papel, canetas, grampos e etc. Normalmente esse gerenciamento é feito por funcionários, que além de consumir tempo também sofre com o problema de erros humanos, que acabam tornando esses sistemas pouco confiáveis.
 
 
 ### Proposta do projeto
 
-  A proposta deste projeto é através do uso de sistemas eletrônicos, propor uma solução para este problema de um almoxarifado completamente automatizado. Capaz de manter a quantidade de produtos sempre atualizados e mantendo um histórico completo do que, quanto e por quem foi retirado. De modo que esse sistema possa ser integrado a outros sistemas através de uma API web. 
-	O sistema modular é composto por  um controlador e múltiplos módulos. O controlador  é responsável pela parte de controle de autenticação dos usuários, controle dos estoques e de servir essas informações seja via um servidor web local via Access Point ou conectado a uma rede local fornecendo essas informações via uma API. Já os módulos são responsáveis pela interação com os sensores e atuadores responsáveis pela medição da quantidade de produto nos compartimentos.
-	Um exemplo de aplicação deste sistema seria em um depósito com 5 estantes. Onde existe um controlador e 5 módulos. O controlador é responsável por processar a data vinda de cada um dos módulos e a cada estante contém um módulo, que interage com os sensores colocados em cada prateleira.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A proposta deste projeto é através do uso de sistemas eletrônicos, propor uma solução para este problema de um almoxarifado completamente automatizado. Capaz de manter a quantidade de produtos sempre atualizados e mantendo um histórico completo do que, quanto e por quem foi retirado. De modo que esse sistema possa ser integrado a outros sistemas através de uma API web. 
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O sistema modular é composto por  um controlador e múltiplos módulos. O controlador  é responsável pela parte de controle de autenticação dos usuários, controle dos estoques e de servir essas informações seja via um servidor web local via Access Point ou conectado a uma rede local fornecendo essas informações via uma API. Já os módulos são responsáveis pela interação com os sensores e atuadores responsáveis pela medição da quantidade de produto nos compartimentos.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Um exemplo de aplicação deste sistema seria em um depósito com 5 estantes. Onde existe um controlador e 5 módulos. O controlador é responsável por processar a data vinda de cada um dos módulos e a cada estante contém um módulo, que interage com os sensores colocados em cada prateleira.
 Como prova de conceito, este projeto consiste na criação de um mini gaveteiro com um controlador e um módulo, com capacidade de armazenar pequenos itens, cada um com seu devido compartimento.  Esta prova de conceito irá demonstrar todas as capacidades do sistema como o gerenciamento dos usuários e manter um histórico atualizado de todas as interações de retirada e depósito de produtos. 
 
 
