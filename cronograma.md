@@ -6,11 +6,5 @@ title: Crongrama
 
 ### Cronograma
 
-Nesta pagina podemos adcionar um link para o cronograma e talvez uma screenshot do cronomgrama completo.
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
-
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR2oD8bC-WIkjc0HuRJJ8-qOTe1ROGuByT59cgGr_hbNyQ5sCJht47UtxoTtyXljNvkK-TOBDNnfKzY/pubhtml?widget=true&amp;headers=false"></iframe>
