@@ -7,15 +7,12 @@ comments: false
 ---
 
 
-Esta semana com o projeto finalmente definido começamos a trabalhar no projeto. Como definido
+Esta semana com a proposta finalmente definida começamos a trabalhar no projeto. Como definido
 no planejamento, nossa prioridade esta semana foi a compra dos materiais e a criação do blog.
 
-Para a criação do blog decidimos arriscar utilizar o [Jekyll](https://jekyllrb.com/), uma ferramenta de criação
-de sites estaticos em Ruby. Embora tenha tido uma curva de aprendizado mais elevada do que uma plataforma de blog
-tradicional, mas ele tem a grande vantagem de gerar um site que pode ser hospedado em qualquer lugar, inclusive no [GitHub
-Pages](https://pages.github.com/), que oferece um espaço para hospedagem de sites de projeto  gratuito sem propagandas.
+Para a criação do blog decidimos arriscar e utilizar o [Jekyll](https://jekyllrb.com/), uma ferramenta de criação
+de sites estáticos em Ruby. Embora tenha sido uma curva de aprendizado mais elevada do que uma plataforma de blog
+tradicional, ele tem a grande vantagem de ser capaz de gerar sites estáticos que podem ser hospedados em qualquer servidor web, inclusive no [GitHub
+Pages](https://pages.github.com/), um serviço oferecido pelo GitHub para a hospedagem de sites de projetos de código aberto de forma gratuita e sem propagandas.
 
-Já quanto a compra dos materias conseguimos comprar já a maioria dos componentes nescessarios para o projeto esta semana, o que nos
-permitiu ja começar a trabalhar no proximo marco.
-
-
+Com a maioria dos componentes necessários em mãos já começamos a trabalhar no próximo marco testando os componentes. Nessa semana pretendemos testar todos os módulos e elaborar os esquematicos para que na semana seguinte já tenhamos um protótipo das placas para que finalmente possamos começar a implementar o código do projeto.
