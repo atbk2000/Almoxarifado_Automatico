@@ -10,7 +10,7 @@ title: Projeto
 
 ### Proposta do projeto
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A proposta deste projeto é através do uso de sistemas eletrônicos, propor uma solução para este problema de um almoxarifado completamente automatizado. Capaz de manter a quantidade de produtos sempre atualizados e mantendo um histórico completo do que, quanto e por quem foi retirado. De modo que esse sistema possa ser integrado a outros sistemas através de uma API web. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A proposta deste projeto é através do uso de sistemas eletrônicos, propor uma solução para este problema de um almoxarifado completamente automatizado. Capaz de manter a quantidade de produtos sempre atualizados e mantendo um histórico completo do que, quanto e por quem foi retirado. De modo que esse sistema possa ser integrado a outros sistemas através de uma API web. 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O sistema modular é composto por  um controlador e múltiplos módulos. O controlador  é responsável pela parte de controle de autenticação dos usuários, controle dos estoques e de servir essas informações seja via um servidor web local via Access Point ou conectado a uma rede local fornecendo essas informações via uma API. Já os módulos são responsáveis pela interação com os sensores e atuadores responsáveis pela medição da quantidade de produto nos compartimentos.
 
