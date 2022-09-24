@@ -15,7 +15,7 @@ title: Projeto
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O sistema modular é composto por  um controlador e múltiplos módulos. O controlador  é responsável pela parte de controle de autenticação dos usuários, controle dos estoques e de servir essas informações seja via um servidor web local via Access Point ou conectado a uma rede local fornecendo essas informações via uma API. Já os módulos são responsáveis pela interação com os sensores e atuadores responsáveis pela medição da quantidade de produto nos compartimentos.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Um exemplo de aplicação deste sistema seria em um depósito com 5 estantes. Onde existe um controlador e 5 módulos. O controlador é responsável por processar a data vinda de cada um dos módulos e a cada estante contém um módulo, que interage com os sensores colocados em cada prateleira.
-Como prova de conceito, este projeto consiste na criação de um mini gaveteiro com um controlador e um módulo, com capacidade de armazenar pequenos itens, cada um com seu devido compartimento.  Esta prova de conceito irá demonstrar todas as capacidades do sistema como o gerenciamento dos usuários e manter um histórico atualizado de todas as interações de retirada e depósito de produtos. 
+Como prova de conceito, este projeto consiste na criação de um mini gaveteiro com um controlador e um módulo, com capacidade de armazenar pequenos itens, cada um com seu devido compartimento. Esta prova de conceito irá demonstrar todas as capacidades do sistema como o gerenciamento dos usuários e manter um histórico atualizado de todas as interações de retirada e depósito de produtos. 
 
 
 ### Requisitos funcionais
