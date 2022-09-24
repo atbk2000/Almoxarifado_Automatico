@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Criação do Blog e compra de matériais
+title: Criação do Blog e compra de materiais
 cover-img: /assets/img/componentes.jpg
 tags: [Entregavel 2]
 comments: false
