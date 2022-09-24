@@ -47,7 +47,7 @@ Como prova de conceito, este projeto consiste na criação de um mini gaveteiro 
 
 <img="https://drive.google.com/file/d/1637p5Ph-FKuEVWlxAOyuatmGk0kmuQsV/view?usp=sharing" alt="Diagrama de hardware"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O _hardware_ do projeto consiste de um controlador, capaz de se conectar a um sistema externo onde são armazenados os dados do almoxarifado, e de um módulo que faz a leitura dos sensores e a atuação dos controladores. O microcontrolador utilizado para compor o controlador foi o ESP32, que é capaz de armazenar um servidor. Já o microcontrolador escolhido para o módulo foi o STM32F411, comum em várias aplicações industriais. A comunicação entre o controlador e o módulo é efetuada através de um Transceiver RS445. As atribuições do controlador são:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O _hardware_ do projeto consiste de um controlador, capaz de se conectar a um sistema externo onde são armazenados os dados do almoxarifado, e de um módulo que faz a leitura dos sensores e a atuação dos controladores. O microcontrolador utilizado para compor o controlador foi o ESP32, que é capaz de armazenar um servidor. Já o microcontrolador escolhido para o módulo foi o STM32F411, comum em várias aplicações industriais. A comunicação entre o controlador e o módulo é efetuada através de um Transceiver RS445, e a alimentação de todo o sistema é efetuada através de uma fonte de 12V/DC. As atribuições do controlador são:
 
 <ul>
  <li> Fazer a leitura de um cartão RFID para o acesso de usuários</li>
