@@ -1,1 +1,1 @@
-Site do Projeto do Almoxerifado Automatico
+Site do Projeto do Almoxarifado Automatico
