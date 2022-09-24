@@ -45,7 +45,7 @@ Como prova de conceito, este projeto consiste na criação de um mini gaveteiro 
 
 ### Diagrama de _hardware_
 
-!["Diagrama de hardware"](/assets/img/DiagramaHardware.png)
+<img="https://drive.google.com/file/d/1637p5Ph-FKuEVWlxAOyuatmGk0kmuQsV/view?usp=sharing" alt="Diagrama de hardware"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
