@@ -43,5 +43,9 @@ Como prova de conceito, este projeto consiste na criação de um mini gaveteiro 
 - RNF09: O projeto mecânico será feito no programa de CAD Fusion 360.
 - RNF10: As peças da prova de conceito serão construídas utilizando uma impressora 3D.
 
+### Diagrama de _hardware_
+
+<img src="https://drive.google.com/file/d/1637p5Ph-FKuEVWlxAOyuatmGk0kmuQsV/view?usp=sharing" alt="Diagrama de hardware">
+
 
 
