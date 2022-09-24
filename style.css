@@ -2,10 +2,10 @@
 body{
     margin: 0;
     background: rgb(156, 218, 212);
-    text-align: center;
+    text-align: justify;
 
 }
 
 p{
-    text-indent: 20px;
+    text-indent: 40px;
 }
