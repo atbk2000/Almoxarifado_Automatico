@@ -11,8 +11,8 @@ Esta semana, como definido no planejamento, começamos o teste dos módulos e co
 do esquemático pronta podemos testar os módulos já nas entradas do microcontrolador que queremos usar, assim evitando possíveis surpresas na hora
 da montagem do protótipo das placas.
 
-<a href="../assets/img/esquematico-controlador1.png"><img class="mx-auto d-block" src="../assets/img/esquematico-controlador1.png" style="width:50%;height:50%;"></a>
- <figcaption class="figure-caption">Esquematico do controlador</figcaption>
+<a href="../assets/img/esquematico-controlador1.png"><img class="mx-auto d-block" src="../assets/img/esquematico-controlador1.png" style="width:65%;height:65%;"></a>
+ <figcaption class="figure-caption center-block">Esquematico do controlador</figcaption>
 
-<a href="../assets/img/esquematico-modulo1.png"><img class="mx-auto d-block" src="../assets/img/esquematico-controlador1.png" style="width:50%;height:50%;"></a>
- <figcaption class="figure-caption">Esquematico do modulo</figcaption>
+<a href="../assets/img/esquematico-modulo1.png"><img class="mx-auto d-block" src="../assets/img/esquematico-controlador1.png" style="width:65%;height:65%;"></a>
+ <figcaption class="figure-caption center-block">Esquematico do modulo</figcaption>
