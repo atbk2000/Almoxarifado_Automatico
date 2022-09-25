@@ -10,8 +10,8 @@ title: Autores
 
 <div class="container">
   <div class="row">
-    <div class="col">
-      1 of 2
+    <div class="col-md-auto">
+      <img src="/assets/img/avatar-icon.jpg">
     </div>
     <div class="col">
       Henrique Lopes Senger:  Graduando em Engenharia Eletrônica na UTFPR, Campus Curitiba.
