@@ -12,7 +12,7 @@ do esquemático pronta podemos testar os módulos já nas entradas do microcontr
 da montagem do protótipo das placas.
 
 <a href="../assets/img/esquematico-controlador1.png"><img class="mx-auto d-block" src="../assets/img/esquematico-controlador1.png" style="width:50%;height:50%;"></a>
-<p class="text-center">Esquematico do controlador</p>
+ <figcaption class="figure-caption">Esquematico do controlador</figcaption>
 
-<a href="../assets/img/esquematico-controlador1.png"><img class="mx-auto d-block" src="../assets/img/esquematico-controlador1.png" style="width:50%;height:50%;"></a>
-<p class="text-center">Esquematico do módulo</p>
+<a href="../assets/img/esquematico-modulo1.png"><img class="mx-auto d-block" src="../assets/img/esquematico-controlador1.png" style="width:50%;height:50%;"></a>
+ <figcaption class="figure-caption">Esquematico do modulo</figcaption>
