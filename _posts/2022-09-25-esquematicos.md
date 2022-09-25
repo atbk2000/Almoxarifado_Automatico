@@ -12,4 +12,6 @@ do esquematico pronta podemos testar os os modulos ja nas entradas do microcontr
 da montagem do protótipo.
 
 
-<a href="../assets/img/esquematico-controlador1.png"><img src="../assets/img/esquematico-controlador1.jpg" style="width:50%;height:50%;"></a>
+![Controlador](../assets/img/esquematico-controlador1.png){: .mx-auto.d-block :}
+
+<a href="../assets/img/esquematico-controlador1.png"><img src="../assets/img/esquematico-controlador1.png" style="width:50%;height:50%;"></a>
