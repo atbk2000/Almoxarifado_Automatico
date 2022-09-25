@@ -7,12 +7,12 @@ comments: false
 ---
 
 
-Esta semana como definido no planejamento, começamos o teste dos modulos e componentes e a elaboração dos esquematicos. Com uma versão preliminar
-do esquematico pronta podemos testar os os modulos ja nas entradas do microcontrolador que queremos usar, assim evitando possiveis surpresas na hora
+Esta semana, como definido no planejamento, começamos o teste dos módulos e componentes e a elaboração dos esquemáticos. Com uma versão preliminar
+do esquemático pronta podemos testar os módulos já nas entradas do microcontrolador que queremos usar, assim evitando possíveis surpresas na hora
 da montagem do protótipo.
 
+<a href="../assets/img/esquematico-controlador1.png"><img class="mx-auto d-block" src="../assets/img/esquematico-controlador1.png" style="width:50%;height:50%;"></a>
+Esquematico do controlador
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-
-<a href="../assets/img/esquematico-controlador1.png"><img src="../assets/img/esquematico-controlador1.png" style="width:50%;height:50%;"></a>
+<a href="../assets/img/esquematico-controlador1.png"><img class="mx-auto d-block" src="../assets/img/esquematico-controlador1.png" style="width:50%;height:50%;"></a>
+Esqumatico do Módulo
