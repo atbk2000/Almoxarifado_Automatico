@@ -7,7 +7,7 @@ title: Autores
 <div class="container">
   <div class="row row align-items-center">
     <div class="col-md-auto">
-      <img class="rounded-circle" src="../assets/img/avatar.png">
+      <img class="rounded-circle" src="../assets/img/avatar-antonio.png">
     </div>
     <div class="col">
       <b>Antonio Thomaz Bittencourt Kozak:</b>  Graduando em Engenharia Eletrônica na UTFPR, Campus Curitiba.<br>
