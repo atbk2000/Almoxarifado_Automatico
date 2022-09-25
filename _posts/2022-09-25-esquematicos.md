@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Esquematicos
-cover-img: /assets/img/esquematico-controlador1.jpg
+cover-img: /assets/img/esquematico-controlador1.png
 tags: [Entregavel 3]
 comments: false
 ---
@@ -12,4 +12,4 @@ do esquematico pronta podemos testar os os modulos ja nas entradas do microcontr
 da montagem do protótipo.
 
 
-<a href="../assets/img/esquematico-controlador1.jpg"><img src="../assets/img/esquematico-controlador1.jpg" style="width:50%;height:50%;"></a>
+<a href="../assets/img/esquematico-controlador1.png"><img src="../assets/img/esquematico-controlador1.jpg" style="width:50%;height:50%;"></a>
