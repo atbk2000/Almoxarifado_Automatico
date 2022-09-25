@@ -11,7 +11,7 @@ title: Autores
     </div>
     <div class="col">
       <b>Antonio Thomaz Bittencourt Kozak:</b>  Graduando em Engenharia Eletrônica na UTFPR, Campus Curitiba.<br>
-      <a href="mailto:antonio@gmail.com">antonio@gmail.com</a>
+      <a href="mailto:akozak@alunos.utfpr.edu.br">akozak@alunos.utfpr.edu.br</a>
     </div>
   </div>
 <div>
