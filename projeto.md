@@ -57,4 +57,11 @@ Como prova de conceito, este projeto consiste na criação de um mini gaveteiro 
  <li> Realizar a aplicação onde são atualizados todos os dados referentes ao almoxarifado</li>
 </ul>
 
+Já as atribuições do módulo são:
+
+<ul>
+ <li> Fazer a leitura das células de carga </li>
+ <li> Controlar o solenóide para a abertura/fechamento do almoxarifado </li>
+<ul>
+
 
