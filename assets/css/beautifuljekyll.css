@@ -1119,3 +1119,10 @@ pre {
     display: inline-block;
   }
 }
+
+
+/* --- Custom --- */
+
+.box-image{
+  margin-bottom: 0px;
+}
