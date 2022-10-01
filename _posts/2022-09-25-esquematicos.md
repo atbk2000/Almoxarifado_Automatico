@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Esquematicos
+title: Esquemáticos
 cover-img: /assets/img/esquematico-controlador1.png
 tags: [Entregavel 3]
 comments: false
@@ -19,3 +19,7 @@ do esquemático pronta podemos testar os módulos já nas entradas do microcontr
 <a href="../assets/img/esquematico-modulo1.png"><img class="mx-auto d-block" src="../assets/img/esquematico-modulo1.png" style="width:65%;height:65%;"></a>
  <figcaption class="figure-caption text-center">Esquematico do modulo</figcaption>
   </p>
+  
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY](https://youtube.com/shorts/l-Y8Rjz2Omc?feature=share">
+</iframe>
