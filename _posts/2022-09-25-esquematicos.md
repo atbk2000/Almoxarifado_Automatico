@@ -20,14 +20,12 @@ do esquemático pronta podemos testar os módulos já nas entradas do microcontr
  <figcaption class="figure-caption text-center">Esquematico do modulo</figcaption>
   </p>
  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ajj7YRJuhP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="420" height="315"
-src="https://youtube.com/shorts/UnSiz0D8JMI" frameborder="0" allowfullscreen>
+src="https://youtube.com/shorts/UnSiz0D8JMI?feature=share">
 </iframe>
 
 <iframe width="420" height="315"
-src="https://youtube.com/shorts/UnSiz0D8JMI?feature=share" frameborder="0" allowfullscreen>
-</iframe>
-
-<iframe width="420" height="315"
-src="https://youtube.com/shorts/zysUuyP_YAs?feature=share" frameborder="0" allowfullscreen>
+src="https://youtube.com/shorts/zysUuyP_YAs?feature=share">
 </iframe>
