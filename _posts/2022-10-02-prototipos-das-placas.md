@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Montagem da parte eletrônica dos protótipos
-cover-img: /assets/img/esquematico-placas.png
+cover-img: /assets/img/placas.jpg
 tags: [Entregavel 3]
 comments: false
 ---
@@ -11,7 +11,7 @@ Esta semana utilizando os esquemáticos construímos os protótipos da placa con
 Também foi realizado o teste simultâneo dos módulos testados individualmente com sucesso.
 
 <p style="margin-bottom: 0px;">
-<a href="../assets/img/placas.jpg"><img class="mx-auto d-block" src="../assets/img/placas.jpg"" style="width:65%;height:65%;"></a>
+<a href="../assets/img/placas.jpg"><img class="mx-auto d-block" src="../assets/img/placas.jpg" style="width:65%;height:65%;"></a>
  <figcaption class="figure-caption text-center">Protótipo da placa controladora e do módulo</figcaption>
   </p>
 
