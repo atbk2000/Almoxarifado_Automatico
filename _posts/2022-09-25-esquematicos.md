@@ -21,13 +21,13 @@ do esquemático pronta podemos testar os módulos já nas entradas do microcontr
   </p>
  
 <iframe width="420" height="315"
-src="https://youtube.com/shorts/UnSiz0D8JMI"
+src="https://youtube.com/shorts/UnSiz0D8JMI" frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="420" height="315"
-src="https://youtube.com/shorts/UnSiz0D8JMI?feature=share"
+src="https://youtube.com/shorts/UnSiz0D8JMI?feature=share" frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="420" height="315"
-src="https://youtube.com/shorts/zysUuyP_YAs?feature=share"
+src="https://youtube.com/shorts/zysUuyP_YAs?feature=share" frameborder="0" allowfullscreen>
 </iframe>
