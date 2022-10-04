@@ -6,6 +6,10 @@ tags: [Entregável 3]
 comments: false
 ---
 
+
+Nestas ultimas duas semanas realizamos os testes dos componentes um a um para evitar a surpresa de ter que lidar com algum componente
+danificado  ou que funcione de maneira diferente da esperada na hora da montagem do protótipo e integração.
+
 ### Teste com a célula de carga
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para a medição da massa dos materiais a serem colocados no almoxarifado, escolheu-se uma
