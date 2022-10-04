@@ -45,8 +45,10 @@ Como prova de conceito, este projeto consiste na criação de um mini gaveteiro 
 
 ### Diagrama de _hardware_
 
-<img src="assets/img/DiagramaHardware.png" alt="Diagrama de hardware">
-
+<p style="margin-bottom: 0px;">
+<a href="../assets/img/DiagramaHardware.png"><img class="mx-auto d-block" src="../assets/img/DiagramaHardware.png" style="width:65%;height:65%;"></a>
+ <figcaption class="figure-caption text-center">Esquematico do modulo</figcaption>
+  </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O _hardware_ do projeto consiste de um controlador, capaz de se conectar a um sistema externo onde são armazenados os dados do almoxarifado, e de um módulo que faz a leitura dos sensores e a atuação dos controladores. O microcontrolador utilizado para compor o controlador foi o ESP32, que é capaz de armazenar um servidor. Já o microcontrolador escolhido para o módulo foi o STM32F411, comum em várias aplicações industriais. A comunicação entre o controlador e o módulo é efetuada através de um Transceiver RS445, e a alimentação de todo o sistema é efetuada através de uma fonte de 12V/DC. As atribuições do controlador são:
 
