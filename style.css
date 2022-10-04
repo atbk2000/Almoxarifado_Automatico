@@ -3,5 +3,8 @@ body{
     margin: 0;
     background: rgb(156, 218, 212);
     text-align: justify;
+}
 
+div.center {
+  text-align: center;
 }
