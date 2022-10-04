@@ -2,7 +2,7 @@
 layout: post
 title: Testes dos componentes eletrônicos
 cover-img: /assets/img/testes-hardware.jpg
-tags: [Entregavel 3]
+tags: [Entregável 3]
 comments: false
 ---
 
