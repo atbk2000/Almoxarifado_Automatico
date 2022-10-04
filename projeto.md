@@ -46,7 +46,7 @@ Como prova de conceito, este projeto consiste na criação de um mini gaveteiro 
 ### Diagrama de _hardware_
 
 <p style="margin-bottom: 0px;">
-<a href="../assets/img/DiagramaHardware.png"><img class="mx-auto d-block" src="../assets/img/DiagramaHardware.png" style="width:65%;height:65%;"></a>
+<a href="../assets/img/DiagramaHardware.png"><img class="mx-auto d-block" src="../assets/img/DiagramaHardware.png" style="width:85%;height:85%;"></a>
  <figcaption class="figure-caption text-center">Diagrama de hardware</figcaption>
   </p>
 
