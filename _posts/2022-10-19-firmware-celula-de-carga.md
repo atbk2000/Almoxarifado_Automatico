@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Testes dos componentes eletrônicos
+title: *Firmware* da célula de carga
 cover-img: /assets/img/testes-hardware.jpg
-tags: [Entregável 3]
+tags: [Entregável 4]
 comments: false
 ---
 
