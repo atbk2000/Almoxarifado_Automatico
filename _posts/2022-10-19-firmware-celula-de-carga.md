@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *Firmware* da célula de carga
+title: Firmware da célula de carga
 cover-img: /assets/img/testes-hardware.jpg
 tags: [Entregável 4]
 comments: false
