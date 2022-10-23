@@ -26,10 +26,10 @@ foi gramas.
 
 <p style="margin-bottom: 0px;">
 <a href="../assets/img/HX711_Datasheet.png"><img class="mx-auto d-block" src="../assets/img/HX711_Datasheet.png" style="width:85%;height:85%;"></a>
-  <figcaption class="figure-caption text-center"><i> Datasheet </i> do módulo HX711</figcaption>
+  <figcaption class="figure-caption text-center">Dados no <i>datasheet</i> do módulo HX711</figcaption>
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A figura do *datasheet* mostra a saída dos dados em direção ao microcontrolador, conforme foi discutido. É preciso
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A figura do *datasheet* mostra a saída dos dados em direção ao microcontrolador, na linha de tempo DOUT. É preciso
 respeitar também o tempo para o processamento dos dados. Da tabela na figura, a duração do pulso enviado do microcontrolador para o módulo deve
 ser de no mínimo 0.2 microsegundos e de no máximo 50 microsegundos. Sem respeitar esse requisito, a saída digital do módulo é incorreta. Além de configurar
 a duração desse pulso para 1 microsegundo, a equipe configurou os outros períodos para respeitar as especificações do *datasheet*.
