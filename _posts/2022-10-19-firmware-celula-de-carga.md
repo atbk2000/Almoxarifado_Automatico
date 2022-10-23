@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Driver da célula de carga
-cover-img: /assets/img/testes-hardware.jpg
+cover-img: /assets/img/celula_carga.jpg
 tags: [Entregável 4]
 comments: false
 ---
