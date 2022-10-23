@@ -36,7 +36,7 @@ de configurar sua senha e SSID. A Figura 2 mostra como esses dados foram enviado
 </p>
 
 <p style="margin-bottom: 0px;">
-<a href="../assets/img/API_JSON_POST_LCD.png"><img class="mx-auto d-block" src="../assets/img/API_JSON_POST_LCD.png" style="width:85%;height:85%;"></a>
+<a href="../assets/img/API_JSON_POST_LCD.jpg"><img class="mx-auto d-block" src="../assets/img/API_JSON_POST_LCD.jpg" style="width:85%;height:85%;"></a>
   <figcaption class="figure-caption text-center">Figura 3. LCD após efetuar a mensagem</figcaption>
 </p>
 
