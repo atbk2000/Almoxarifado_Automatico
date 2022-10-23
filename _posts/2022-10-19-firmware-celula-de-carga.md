@@ -6,7 +6,7 @@ tags: [Entregável 4]
 comments: false
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Após verificar o funcionamento da célula de carga usando o ESP32, o próximo passo foi verificar o comportamento desse sensor usando o STM32. 
+Após verificar o funcionamento da célula de carga usando o ESP32, o próximo passo foi verificar o comportamento desse sensor usando o STM32. 
 Para isso utilizou-se a IDE STM32CubeIDE e foi preciso utilizar o manual do usuário e o *datasheet* do STM32. Além dos pinos de alimentação,
 foram configurados dois pinos que, por meio do módulo conversor HX711, faziam a comunicação com a célula de carga. Um pino foi configurado
 como entrada, para receber os dados digitais vindos do HX711, e o outro como saída, para estabelecer um sincronismo entre o módulo conversor
