@@ -5,13 +5,12 @@ cover-img: /assets/img/wifi_symbol.jpg
 tags: [Entregável 4]
 comments: false
 ---
-
-### Criação da API JSON
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O primeiro passo para o desenvolvimento da interface web com o ESP32 foi o uso da API JSON. Essa API estabelece um
+O primeiro passo para o desenvolvimento da interface web com o ESP32 foi o uso da API JSON. Essa API estabelece um
 formato para a representação dos dados, estruturados em conformidade com a sintaxe do objeto JavaScript. Através do método GET, dados são
 enviados do microcontrolador para um outro dispositivo conectado à rede wi-fi. Com o método POST, dados são enviados de um dispositivo
 conectado à rede wi-fi para o microcontrolador. 
+
+### Criação da API JSON
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Para começar o desenvolvimento web, escolheu-se o sensor de temperatura LM35 para testar o método GET. Apesar
 de não ser utilizado nesse projeto, foi escolhido esse sensor devido à facilidade do seu uso, uma vez que o propósito principal é testar a API 
