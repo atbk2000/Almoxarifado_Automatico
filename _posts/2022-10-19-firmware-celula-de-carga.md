@@ -16,7 +16,9 @@ e o STM32.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pretende-se explicar resumidamente o funcionamento do driver da célula de carga. Foi necessário estudar
 o *datasheet* do módulo HX711 para a elaboração do *firmware*. A saída digital do HX711 é um dado de 25 a 27 bits, sendo 24 bits responsáveis
-por transmitir a massa do componente sendo medido e os restantes responsáveis por selecionar o ganho no módulo conversor. Com 25 bits, o ganho 
+por transmitir a massa do componente sendo medido e os restantes responsáveis por selecionar o ganho no módulo conversor.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Com 25 bits, o ganho 
 é 128, ou seja, os dados analógicos provenientes da célula são amplificados por um fator igual a 128. Usando 25 bits, no caso desse projeto, 
 falta analisar os 24 bits restantes que estão no formato de complemento de 2. Após corretamente decodificar os dados em complemento de 2 e analisar
 o módulo, deve-se multiplicar esse valor por uma constante de calibração que efetue a conversão para uma unidade de medida. A unidade escolhida 
