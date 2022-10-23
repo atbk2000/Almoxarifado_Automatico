@@ -6,6 +6,8 @@ tags: [Entregável 4]
 comments: false
 ---
 
+### Criação da API JSON
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O primeiro passo para o desenvolvimento da interface web com o ESP32 foi o uso da API JSON. Essa API estabelece um
 formato para a representação dos dados, estruturados em conformidade com a sintaxe do objeto JavaScript. Através do método GET, dados são
 enviados do microcontrolador para um outro dispositivo conectado à rede wi-fi. Com o método POST, dados são enviados de um dispositivo
@@ -37,4 +39,10 @@ de configurar sua senha e SSID. A Figura 2 mostra como esses dados foram enviado
 <a href="../assets/img/API_JSON_POST_LCD.png"><img class="mx-auto d-block" src="../assets/img/API_JSON_POST_LCD.png" style="width:85%;height:85%;"></a>
   <figcaption class="figure-caption text-center">Figura 3. LCD após efetuar a mensagem</figcaption>
 </p>
+
+### Próximos passos
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estabelecendo uma comunicação via wi-fi com o ESP32, o próximo passo é integrar os sensores e atuadores que efetivamente 
+serão utilizados no projeto. Por meio da comunicação wi-fi e do servidor do ESP32, a idéia é desenvolver a interface com o usuário para que ele possa visualizar
+os dados dos almoxarifados e eventualmente realizar modificações, caso possua permissão.
 
