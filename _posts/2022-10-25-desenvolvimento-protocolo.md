@@ -1,3 +1,9 @@
+---
+layout: post
+title: Desenvolvimento do protocolo de comunicação entre modulos
+tags: [Entregável 4]
+comments: false
+
 
 Nessa semana trabalhamos na implementação do protocolo de aplicação entre o controlador e o módulo. Parte essencial do nosso projeto que nos permite tanto
 obter dados da saída do modulo quanto controlar atuadores conectados aos módulos através do controlador.
