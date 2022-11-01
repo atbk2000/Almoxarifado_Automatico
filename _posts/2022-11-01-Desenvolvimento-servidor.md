@@ -22,14 +22,14 @@ utilizou-se o aplicativo Postman, e sim um site. Utilizando uma simples tabela, 
 o servidor do ESP32. Foi definido que o site deve apresentar telas ao usuário, onde pode-se obter informações bem como comunicar-se com o almoxarifado. 
 As telas são divididas em dois grupos: de gerenciamento e de usuário.
 
-### Telas de usuário comum
+## Telas de usuário comum
 
 **Tela de login**: Tela que requer login e senha do usuário e envia via um método POST para o servidor. Retorna um token único de autenticação.
 
 **Tela geral**: Utilizando um método GET, lista todas as gavetas e suas propriedades: ID da gaveta, nome do objeto na gaveta, quantidade de objetos,
 limite máximo de objetos na gaveta. Também deve listar se o usuário logado em específico tem algum empréstimo pendente.
 
-### Telas de gerenciamento: para o administrador
+## Telas de gerenciamento: para o administrador
 
 **Tela de gerenciamento da gaveta**: mostra o histórico da gaveta e lista em uma tabela todos os objetos que se
 encontram emprestados. Também deve ser possível editar o nome do objeto e se ele se trata de um objeto de “uso” ou de empréstimo através de um método POST.
