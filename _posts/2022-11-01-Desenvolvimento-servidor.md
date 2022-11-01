@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Desenvolvimento da comunicação com o servidor
-cover-img: /assets/img/Javascript_Image.png
+cover-img: /assets/img/Javascript_Image.jpg
 tags: [Entregável 4]
 comments: false
 ---
@@ -22,7 +22,7 @@ utilizou-se o aplicativo Postman, e sim um site. Utilizando uma simples tabela, 
 o servidor do ESP32. Foi definido que o site deve apresentar telas ao usuário, onde pode-se obter informações bem como comunicar-se com o almoxarifado. 
 As telas são divididas em dois grupos: de gerenciamento e de usuário.
 
-#### Telas de usuário comum
+### Telas de usuário comum
 
 **Tela de login**: Tela que requer login e senha do usuário e envia via um método POST para o servidor. Retorna um token único de autenticação.
 
