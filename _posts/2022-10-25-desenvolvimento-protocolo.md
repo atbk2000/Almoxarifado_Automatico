@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Desenvolvimento do protocolo de comunicação entre modulos
+title: Desenvolvimento do protocolo de comunicação entre módulos
 tags: [Entregável 4]
 comments: false
 ---
