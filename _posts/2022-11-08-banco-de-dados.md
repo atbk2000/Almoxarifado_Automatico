@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Implementação do banco de dados
-cover-img:/assets/img/sqlite.png
+cover-img: /assets/img/sqlite.png
 tags: [Entregável 4]
 comments: false
 ---
