@@ -26,7 +26,8 @@ Informações especificas de cada usuário
 | nome | TEXT| Nome do usuário|
 | login| TEXT | Identificador único usado no login do usuário(numérico)|
 | ultimo_acesso | TEXT   | Data do ultimo acesso deste usuário |
-| privilegio | INTEGER   | Nível de acesso do usuário, 0 = Usuário, 1 = Administrador|
+| privilegio | INTEGER   | Nível de acesso do usuário|
+
 ### Tabela “compartment”
 Informações especificas de cada compartimento
 
@@ -34,9 +35,10 @@ Informações especificas de cada compartimento
 | :------ |:--- | :--- |
 | ID | INTEGER | Chave primaria do compartimento |
 | object_name | TEXT| Nome do objeto sendo armazenado naquele compartimento|
-| object_amount| INTEGER | Quantidade de objetos no compartimento |
-| object_weight | REAL   | Peso do objeto(em gramas)|
-| last_change | TEXT   | Data da ultima modificação do compartimento |
+| object_amount| INTEGER| Quantidade de objetos no compartimento |
+| object_weight | REAL| Peso do objeto(em gramas)|
+| last_change | TEXT | Data da ultima modificação do compartimento |
+
 ### Tabela “comparment_history” 
 
 Armazena todas as transações que ocorreram em cada compartimento
