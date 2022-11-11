@@ -16,17 +16,17 @@ apresentadas no site, onde o usuário poderia obter informações e enviar coman
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Como o grupo tinha pouco conhecimento em JavaScript e HTML, além do desenvolvimento do site é necessário um tempo
 considerável para o estudo dessas duas linguagens de programação. Com isso, buscou-se desenvolver a tela geral do usuário, onde uma tabela lista as
 gavetas mostrando as suas propriedades: ID da gaveta, objeto que a gaveta armazena, quantidade de objetos dentro da gaveta, e o limite de objetos
-que podem ser depositados na gaveta. A Figura 1 mostra o desenvolvimento da tabela até o momento da escrita desse post. 
+que podem ser depositados na gaveta. A Figura 1 mostra essa tabela no site, preenchida com valores que servem apenas para exemplificar seu funcionamento.
 
 <p style="margin-bottom: 0px;">
-<a href="../assets/img/Site_ESP32_Temp.png"><img class="mx-auto d-block" src="../assets/img/Site_ESP32_Temp.png" style="width:85%;height:85%;"></a>
+<a href="../assets/img/telaGeral.PNG"><img class="mx-auto d-block" src="../assets/img/telaGeral.PNG" style="width:85%;height:85%;"></a>
   <figcaption class="figure-caption text-center">Figura 1. Tela geral do usuário</figcaption>
 </p>
 
 ## Próximos passos
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O objetivo é personalizar a tela geral do usuário para possuir uma melhor aparência bem como construir as demais
-telas. A equipe teve um pouco de dificuldade para utilizar os métodos GET e POST juntamente com o JavaScript, por isso consegui-se apenas a construção
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O objetivo é construir as demais telas e fazer a lógica do site em JavaScript para que ele seja interativo e fique
+sempre atualizado. A equipe teve um pouco de dificuldade para utilizar os métodos GET e POST juntamente com o JavaScript, por isso conseguiu-se apenas a construção
 da tela geral. A expectativa é que a geração das outras telas seja mais rápida. Outro detalhe importante é a construção da estrutura física do almoxarifado,
 que deverá ser feita simultaneamente ao desenvolvimento do site nas próximas semanas.
 
