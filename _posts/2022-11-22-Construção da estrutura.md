@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Estrutura física e site do almoxarifado
-cover-img: /assets/img/post_site_estrutura.png
+title: Estrutura física do almoxarifado
+cover-img: /assets/img/postEstrutura.jpg
 tags: [Entregável 5]
 comments: false
 ---
