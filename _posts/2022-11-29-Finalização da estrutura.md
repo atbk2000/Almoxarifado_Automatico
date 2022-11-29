@@ -28,7 +28,7 @@ corrigir erros que podem aparecer. As Figuras 2 e 3 mostram outras vistas da est
 <p style="margin-bottom: 0px;">
 <a href="../assets/img/estruturaTraseira.jpg"><img class="mx-auto d-block" src="../assets/img/estruturaTraseira.jpg" style="width:85%;height:85%;"></a>
   <figcaption class="figure-caption text-center">Figura 3. Estrutura vista de trás</figcaption>
-</p>crypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## Conclusões
 
