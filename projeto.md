@@ -66,4 +66,9 @@ Já as atribuições do módulo são:
  <li> Controlar o solenóide para a abertura/fechamento do almoxarifado </li>
 <ul>
 
+### Vídeo final
+
+<iframe class="center" width="560" height="315" src="https://youtu.be/w8k9mWNndKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
