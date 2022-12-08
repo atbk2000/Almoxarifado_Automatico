@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vídeo final
-cover-img: /assets/img/videoFinal.jpg
+cover-img: /assets/img/videoFinal.png
 tags: Final
 comments: false
 ---
